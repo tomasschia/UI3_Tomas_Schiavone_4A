@@ -634,10 +634,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ddb8e9da-1c30-42de-8e4e-0c10dda777a4
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: UI3_Tomas_Schiavone
+  organizationId: unity_48246071
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
